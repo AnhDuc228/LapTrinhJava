@@ -1,0 +1,16 @@
+2024-11-29 19:24:30,765 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-11-29 19:30:21,129 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-11-29 23:49:21,715 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-11-29 23:49:45,056 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-11-30 17:20:24,441 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2024-12-29 21:51:05,744 [33] INFO  Account Manager - Attempting to refresh Duclun258 | Last Use: 11/30/2024 5:20:25 PM
+2024-12-29 21:51:11,140 [37] INFO  Account Manager - Attempting to refresh cowanhduck123 | Last Use: 11/29/2024 11:49:23 PM
+2025-02-04 19:39:05,783 [26] INFO  Account Manager - Attempting to refresh Duclun258 | Last Use: 11/30/2024 5:20:25 PM
+2025-02-04 19:39:11,208 [20] INFO  Account Manager - Attempting to refresh cowanhduck123 | Last Use: 12/29/2024 9:51:11 PM
+2025-02-05 18:45:07,563 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-05 18:45:14,576 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-02-05 18:47:09,885 [1] ERROR Account Manager - [ClientSettingsPatcher::PatchSettings] Can't patch ClientAppSettings, folder doesn't start with 'version-'
+2025-03-23 14:16:41,857 [47] INFO  Account Manager - Attempting to refresh cowanhduck123 | Last Use: 2/4/2025 7:39:12 PM
+2025-03-23 14:16:47,265 [41] INFO  Account Manager - Attempting to refresh Duclun258 | Last Use: 2/5/2025 6:47:11 PM
+2025-03-28 19:06:47,658 [1] ERROR Account Manager - Invalid password, your password must contain 4 or more characters
+2025-03-30 14:19:32,553 [186] INFO  Account Manager - Attempting to refresh cowanhduck123 | Last Use: 2/4/2025 7:39:12 PM
